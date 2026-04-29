@@ -32,11 +32,16 @@ It allows users to browse fashion products, view details, and complete a full sh
 
 ---
 
-### ☁️ Backend (Firebase)
-- Firebase Authentication (Login / Signup)
-- Cloud Firestore (Products & Orders data)
-- Firebase Storage (Product images)
+Allure is a premium fashion e-commerce application built with **Flutter** and **Firebase**. It provides a real-time shopping experience with seamless cloud integration.
 
+## 🚀 Backend & Real-time Features
+*   **Firebase Auth**: Secure Email/Password and Google Sign-in.
+*   **Cloud Firestore**: Real-time product synchronization using `Streams`.
+*   **Firebase Storage**: Optimized retrieval of high-quality fashion images.
+
+## 🛠️ Technical Highlights
+*   **Reactive UI**: Implementation of `StreamBuilder` for live data updates.
+*   **Responsive Design**: Built with `ScreenUtil` for a perfect fit on all devices.
 ---
 
 ## 🧱 Tech Stack
@@ -61,4 +66,8 @@ It allows users to browse fashion products, view details, and complete a full sh
 - Visa Payment Screen
 
 ---
+
+
+
+
 
