@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "805763970676",
+    "firebase_url": "https://fashon-app-5cd82-default-rtdb.firebaseio.com",
+    "project_id": "fashon-app-5cd82",
+    "storage_bucket": "fashon-app-5cd82.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805763970676:android:8ac47b1b6cc59815078321",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "805763970676-uu4ie3cgm1f5hsesqh715do4kk03t2bn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_application",
+            "certificate_hash": "7ab33851849bbfbf5906864506b8b72a15d2c5af"
+          }
+        },
+        {
+          "client_id": "805763970676-rsjmm4d3vde3v5vuiufl4bva9b5blvh9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFd_doZvWl0VQ3job_wcXrqebjgyQvBzY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "805763970676-rsjmm4d3vde3v5vuiufl4bva9b5blvh9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "805763970676-5s32e3r2u4log0tba3qi7kqfe3ie2stf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterApplication"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
