@@ -62,6 +62,3 @@ It allows users to browse fashion products, view details, and complete a full sh
 
 ---
 
-## 📸 Project Preview
-
-> Add screenshots here (recommended for GitHub profile)
